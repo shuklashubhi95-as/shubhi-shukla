@@ -1,0 +1,6 @@
+{
+  "name": "Rajas Legal Associate",
+  "description": "Professional website for Rajas Legal Associate offering legal services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
